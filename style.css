@@ -1,0 +1,21 @@
+body{
+    
+
+}
+ #name-highlight{
+     color: orange;
+ }
+ h1{
+    font-family: 'Righteous', cursive;
+     font-size: 50px;
+    }
+    }
+    p{
+   text-align: justify;
+        font-size: 30px;
+    }
+    h3{
+        font-family: 'Ubuntu', sans-serif ;
+        font-size: 35px;
+        font-weight:bold;
+    }
