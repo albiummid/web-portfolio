@@ -22,7 +22,7 @@ text-align:left;
 .half-width{
     float: left;
 width: 40%;
-margin-left: 5%;
+margin-left: 4%;
 padding-left: 2%;
 }
 .half-width img{
@@ -52,4 +52,30 @@ h2{
 background-image:url("images/dream-bg.png");
 background-repeat: no-repeat;
 background-position: right;
+}
+.orange{
+    color: tomato;
+}
+.single-exp{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height:450px;
+
+}
+#full-stack{
+   border-left: 7px solid; 
+   border-image: linear-gradient(180deg,lightsalmon,tomato);
+   border-image-slice: 1;
+   background-color: white;
+}
+#baby-web{
+
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg,cyan,blue);
+border-image-slice:1;
+}
+.exp{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
