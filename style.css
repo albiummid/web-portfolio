@@ -19,3 +19,12 @@ body{
         font-size: 25px;
         font-weight:bold;
     }
+    #intro{
+width: 50%;
+float: left;
+
+    }
+    #profile-pic{
+        float: right;
+        width: 50%;
+    }
