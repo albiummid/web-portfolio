@@ -1,6 +1,5 @@
 body{
     font-family: 'Ubuntu', sans-serif;
-
 }
  #name-highlight{
      color: orange;
@@ -11,8 +10,7 @@ body{
     }
     }
     p{
-   text-align: justify;
-        font-size: 20px;
+        font-size: 10px;
     }
     h3{
         font-family: 'Ubuntu', sans-serif ;
@@ -22,8 +20,8 @@ body{
 .half-width{
     float: left;
 width: 40%;
-margin: 5%x;
-padding: 2%;
+margin-left: 5%;
+padding-left: 2%;
 }
 .half-width img{
     width: 100%;
