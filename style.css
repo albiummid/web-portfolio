@@ -9,10 +9,10 @@ body{
     font-family: 'Righteous', cursive;
      font-size: 50px;
     }
-    }
     p{
-        font-size: 100px;
-
+        color: dimgray;
+font-size: 20px;
+text-align:left;
     }
     h3{
         font-family: 'Ubuntu', sans-serif ;
@@ -34,6 +34,7 @@ padding-left: 2%;
 }
 section{
     height: 500px;
+    padding-bottom:150px;
 }
 .ancor-button{
     text-decoration: none;
@@ -42,8 +43,13 @@ section{
     font-color:white;
     color: white;
     border-radius: 5px;
-    
+}
+h2{
+    font-size: 40px;
+}
+.big-dream{
 
-
-
+background-image:url("images/dream-bg.png");
+background-repeat: no-repeat;
+background-position: right;
 }
