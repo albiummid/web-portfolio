@@ -1,5 +1,5 @@
 body{
-    
+    font-family: 'Ubuntu', sans-serif;
 
 }
  #name-highlight{
@@ -19,12 +19,8 @@ body{
         font-size: 25px;
         font-weight:bold;
     }
-    #intro{
-width: 50%;
-float: left;
+.half-width{
+    float: left;
+width: 40%;
 
-    }
-    #profile-pic{
-        float: right;
-        width: 50%;
-    }
+}
